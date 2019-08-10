@@ -7,16 +7,23 @@ import ComparisonChart from "./ComparisonChart";
 import { MainArea, Flex } from "./Charts.style";
 import stackedBar from "../data/stackedBar";
 import line from "../data/line";
+import Disqus from "disqus-react";
 
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection;
   const selectedScenario2 = props.scenarioSelection.scenarioSelection2;
+  const disqusConfig = {
+    url: window.location.href,
+    identifier: "tab1",
+    title: "Overblik"
+  };
 
   return (
     <MainArea>
       {props.scenarioSelection.showWelcome === true && (
         <Welcome closeWelcome={props.closeWelcome} />
       )}
+      <Disqus.CommentCount shortname="cometsproject" config={disqusConfig} />
       {(props.scenarioSelection.showDifference === false ||
         (props.scenarioSelection.showDifference === true &&
           selectedScenario2 === "")) && (
@@ -119,18 +126,18 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
-		  <StackedBarChart 
-		    chartName='_Omkostninger per person'
-			chartTitle='Omkostninger per person'
-			selectedScenario={selectedScenario}
-			selectedScenario2={selectedScenario2}
-			combinedChart={false}
-			label='DKK/person' 
-			minY={0} 
-			maxY={3000} 
-			stackedBar={stackedBar}
+          <StackedBarChart
+            chartName="_Omkostninger per person"
+            chartTitle="Omkostninger per person"
+            selectedScenario={selectedScenario}
+            selectedScenario2={selectedScenario2}
+            combinedChart={false}
+            label="DKK/person"
+            minY={0}
+            maxY={3000}
+            stackedBar={stackedBar}
             line={line}
-		   />
+          />
         </Flex>
       )}
       {props.scenarioSelection.showDifference === true &&
@@ -232,20 +239,21 @@ const Charts = props => {
               stackedBar={stackedBar}
               line={line}
             />
-		    <StackedBarChart 
-		      chartName='_Omkostninger per person'
-			  chartTitle='Omkostninger per person i forhold til reference'
-			  selectedScenario={selectedScenario}
-			  selectedScenario2={selectedScenario2}
-			  combinedChart={false}
-			  label='DKK/person' 
-			  minY={-1} 
-			  maxY={1} 
+            <StackedBarChart
+              chartName="_Omkostninger per person"
+              chartTitle="Omkostninger per person i forhold til reference"
+              selectedScenario={selectedScenario}
+              selectedScenario2={selectedScenario2}
+              combinedChart={false}
+              label="DKK/person"
+              minY={-1}
+              maxY={1}
               stackedBar={stackedBar}
               line={line}
-		   />
+            />
           </Flex>
         )}
+      <Disqus.DiscussionEmbed shortname="cometsproject" config={disqusConfig} />
     </MainArea>
   );
 };

@@ -501,6 +501,11 @@ exports[`should render correctly 1`] = `
               />
             </div>
           </div>
+          <span
+            class="disqus-comment-count"
+            data-disqus-identifier="tab1"
+            data-disqus-url="http://localhost/"
+          />
           <div
             class="sc-jhAzac ldHtTB"
           >
@@ -11690,6 +11695,9 @@ exports[`should render correctly 1`] = `
               </div>
             </div>
           </div>
+          <div
+            id="disqus_thread"
+          />
         </div>
       </div>
     </div>
