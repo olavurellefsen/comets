@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "disqus-react": "^1.0.6",
     "i18next": "^15.0.9",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
@@ -12,7 +13,7 @@
     "react-markdown": "^4.0.6",
     "react-octicon": "^3.0.1",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^3.0.1",
     "styled-components": "^3.2.6",
     "styled-components-breakpoint": "^2.0.2",
     "typeface-roboto": "0.0.54",
