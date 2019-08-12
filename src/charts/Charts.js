@@ -113,7 +113,7 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
-          <StackedBarChart
+          {/* <StackedBarChart
             chartName="_Andel_importeret_Biomasse"
             chartTitle="Andel importeret Biomasse"
             selectedScenario={selectedScenario}
@@ -125,17 +125,17 @@ const Charts = props => {
             YPercentage={true}
             stackedBar={stackedBar}
             line={line}
-          />
-          <StackedBarChart
-            chartName="_Omkostninger per person"
-            chartTitle="Omkostninger per person"
-            selectedScenario={selectedScenario}
-            selectedScenario2={selectedScenario2}
-            combinedChart={false}
-            label="DKK/person"
-            minY={0}
-            maxY={3000}
-            stackedBar={stackedBar}
+          /> */}
+		  <StackedBarChart 
+		    chartName='_Omkostninger per person'
+			chartTitle='Omkostninger per person'
+			selectedScenario={selectedScenario}
+			selectedScenario2={selectedScenario2}
+			combinedChart={false}
+			label='DKK/person' 
+			minY={0} 
+			maxY={3000} 
+			stackedBar={stackedBar}
             line={line}
           />
         </Flex>
