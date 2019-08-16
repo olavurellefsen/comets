@@ -4724,9 +4724,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="55"
-                      >
-                        Reference
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4756,9 +4754,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="110"
-                      >
-                        Marienlyst
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4788,9 +4784,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="165"
-                      >
-                        COMETS
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4820,9 +4814,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="220"
-                      >
-                        Carbon budget 300Mt CO2
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4868,9 +4860,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="275"
-                      >
-                        Carbon budget 400Mt CO2
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4900,9 +4890,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="330"
-                      >
-                        Carbon budget 500Mt CO2
-                      </tspan>
+                      />
                     </text>
                   </g>
                   <g
