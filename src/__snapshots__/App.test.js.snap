@@ -497,12 +497,27 @@ exports[`should render correctly 1`] = `
               <p
                 class="sc-jlyJG bbyJzT"
               >
-                De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Energimodellen er baseret på de grundlæggende forudsætninger om finansiel vækst fra finansministeriet og transportbehovet fra landstrafikmodellen. Desuden er der forudsat en teknologisk udvikling, læs mere om dette under ”Forudsætninger” og under ”Om værktøjet”.
+                COMETS scenariet består af politikker som ifølge TIMES-DK modellen kan få Danmark til at overholde et CO2-budget på mellem 400-500 Mt CO2 frem mod 2050 og det inkluderer også drastiske reduktioner af de øvrige drivhusgasudledninger fra landbruget (metan og lattergas). Følges en sådan udvikling kan Danmark blive klimaneutral i 2050, hvilket er i tråd med Paris-aftalens målsætning om at holde den globale temperaturstigning under 1,5 grad.
+              </p>
+              <p
+                class="sc-jlyJG bbyJzT"
+              >
+                Ud over disse såkaldte politik-scenarier har vi også gennemregnet tre målsætnings-scenarier – det vil sige scenarier, hvor vi har bedt modellen om at overholde tre forskellige CO2-budgetter (300 Mt CO2, 400 Mt CO2 og 500 Mt CO2). Disse scenarier kan bruges til at sammenligne politik-scenarierne med for at tjekke, om de er på rette spor.
+              </p>
+              <p
+                class="sc-jlyJG bbyJzT"
+              >
+                De viste scenarier er baseret på beregninger i energisystemmodellen TIMES-DK. Energimodellen er baseret på fremskrivning af den danske økonomi fra finansministeriet og transportbehovet fra landstrafikmodellen. Desuden er der forudsat en teknologisk udvikling fra de danske teknologikataloger - læs mere om dette under ”Forudsætninger” og under ”Om værktøjet”.
               </p>
               <p
                 class="sc-jlyJG bbyJzT"
               >
                 Og husk… en model, hvor god den end er, er kun en simpel repræsentation af virkeligheden.
+              </p>
+              <p
+                class="sc-jlyJG bbyJzT"
+              >
+                Klik på krydset i hjørnet for at komme i gang……
               </p>
             </div>
             <div
@@ -4724,9 +4739,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="55"
-                      >
-                        Reference
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4756,9 +4769,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="110"
-                      >
-                        Marienlyst
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4788,9 +4799,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="165"
-                      >
-                        COMETS
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4820,9 +4829,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="220"
-                      >
-                        Carbon budget 300Mt CO2
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4868,9 +4875,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="275"
-                      >
-                        Carbon budget 400Mt CO2
-                      </tspan>
+                      />
                     </text>
                     <text
                       dx="0"
@@ -4900,9 +4905,7 @@ exports[`should render correctly 1`] = `
                         style="font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif; font-size: 12px; letter-spacing: normal; padding: 8px; fill: #455A64; stroke: transparent; stroke-width: 0;"
                         text-anchor="start"
                         x="330"
-                      >
-                        Carbon budget 500Mt CO2
-                      </tspan>
+                      />
                     </text>
                   </g>
                   <g
