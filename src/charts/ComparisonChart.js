@@ -43,7 +43,8 @@ const StackedBarChart = props => {
             .filter(indicatorGroupValue => indicatorGroupValue.year === 2050)
             .map(chartGroupValue => ({
               scenario: scenario.scenario,
-              total: chartGroupValue.total
+              total: chartGroupValue.total,
+              indicator: chartGroup.indicatorGroup
             }))
         )
     );
@@ -77,7 +78,7 @@ const StackedBarChart = props => {
           x="scenario"
           y="total"
           alignment="start"
-          labels={d => `${t("scenario_code."+getShortName(d.scenario))}`}
+          labels={d => d.total > 0 ? `${t("scenario_code."+getShortName(d.scenario))}`: ''}
           labelComponent={
             <VictoryLabel
               dx={0}
