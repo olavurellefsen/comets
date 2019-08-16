@@ -155,8 +155,8 @@ function ScenarioSelectionMenu(props) {
         <ScenarioSelectionList
           updateScenarioSelection={props.updateScenarioSelection}
           name="scenarioSelection"
-          selectedValue={props.scenarioSelection.scenarioSelection}
-          selectedValue2={props.scenarioSelection.scenarioSelection2}
+          selectedValue={props.scenarioSelection.scenarioSelectionNoOptions}
+          selectedValue2={props.scenarioSelection.scenarioSelectionNoOptions2}
           dimensionOptions={props.scenarioCombinations.scenarioOptions}
           dimensionTitle={t("general.scenarios")}
           narrowVersion={true}
