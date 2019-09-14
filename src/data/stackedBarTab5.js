@@ -129,6 +129,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -220.3952726515
+                  },
+                  {
+                    "year": 2035,
+                    "total": -692.4424921957
+                  },
+                  {
+                    "year": 2040,
+                    "total": -819.4254677334
+                  },
+                  {
+                    "year": 2045,
+                    "total": -842.4575894527
+                  },
+                  {
+                    "year": 2050,
+                    "total": -938.0169111951
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -2547,6 +2584,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -815.9377408449
+                  },
+                  {
+                    "year": 2035,
+                    "total": -900.909453801
+                  },
+                  {
+                    "year": 2040,
+                    "total": -959.5281068044
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1039.4472570019
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1135.3181036692
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -2563,23 +2637,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 31.4134853112
+                    "total": 969.2729575466
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 1035.1688820629
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 1102.395796647
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 1194.3524961962
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 1304.9633375508
                   }
                 ]
               },
@@ -4964,6 +5038,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -7383,6 +7494,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -815.9377408449
+                  },
+                  {
+                    "year": 2035,
+                    "total": -900.909453801
+                  },
+                  {
+                    "year": 2040,
+                    "total": -959.5281068044
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1039.4472570019
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1135.3181036692
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -7399,23 +7547,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 31.4134853112
+                    "total": 969.2729575466
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 1035.1688820629
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 1102.395796647
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 1194.3524961962
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 1304.9633375508
                   }
                 ]
               },
@@ -9800,6 +9948,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -12219,6 +12404,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -827.7226547707
+                  },
+                  {
+                    "year": 2035,
+                    "total": -900.909453801
+                  },
+                  {
+                    "year": 2040,
+                    "total": -959.5281068044
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1039.4472570019
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1135.3181036692
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -12235,23 +12457,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 108.9218725728
+                    "total": 1060.3272228839
                   },
                   {
                     "year": 2035,
-                    "total": 23.2775558062
+                    "total": 1058.4464378691
                   },
                   {
                     "year": 2040,
-                    "total": 6.4026177102
+                    "total": 1108.7984143572
                   },
                   {
                     "year": 2045,
-                    "total": 7.0112822324
+                    "total": 1201.3637784286
                   },
                   {
                     "year": 2050,
-                    "total": 7.7421038089
+                    "total": 1312.7054413597
                   }
                 ]
               },
@@ -14637,6 +14859,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -827.7226547707
+                  },
+                  {
+                    "year": 2035,
+                    "total": -900.909453801
+                  },
+                  {
+                    "year": 2040,
+                    "total": -959.5281068044
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1039.4472570019
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1135.3181036692
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -14653,23 +14912,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 114.1178318886
+                    "total": 1065.5231821997
                   },
                   {
                     "year": 2035,
-                    "total": 88.6789540422
+                    "total": 1123.8478361051
                   },
                   {
                     "year": 2040,
-                    "total": 9.453570717
+                    "total": 1111.849367364
                   },
                   {
                     "year": 2045,
-                    "total": 7.3319334113
+                    "total": 1201.6844296075
                   },
                   {
                     "year": 2050,
-                    "total": 7.7421038089
+                    "total": 1312.7054413597
                   }
                 ]
               },
@@ -17054,6 +17313,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -220.3952726515
+                  },
+                  {
+                    "year": 2035,
+                    "total": -692.4424921957
+                  },
+                  {
+                    "year": 2040,
+                    "total": -819.4254677334
+                  },
+                  {
+                    "year": 2045,
+                    "total": -842.4575894527
+                  },
+                  {
+                    "year": 2050,
+                    "total": -938.0169111951
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -19473,6 +19769,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -220.3952726515
+                  },
+                  {
+                    "year": 2035,
+                    "total": -692.4424921957
+                  },
+                  {
+                    "year": 2040,
+                    "total": -819.4254677334
+                  },
+                  {
+                    "year": 2045,
+                    "total": -842.4575894527
+                  },
+                  {
+                    "year": 2050,
+                    "total": -938.0169111951
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -21890,6 +22223,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -220.3952726515
+                  },
+                  {
+                    "year": 2035,
+                    "total": -692.4424921957
+                  },
+                  {
+                    "year": 2040,
+                    "total": -819.4254677334
+                  },
+                  {
+                    "year": 2045,
+                    "total": -842.4575894527
+                  },
+                  {
+                    "year": 2050,
+                    "total": -938.0169111951
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -24309,6 +24679,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -26726,6 +27133,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -29145,6 +29589,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -31562,6 +32043,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -33981,6 +34499,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -36398,6 +36953,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -38817,6 +39409,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -127.4712380394
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -41235,6 +41864,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -1222.4539734056
+                  },
+                  {
+                    "year": 2035,
+                    "total": -1598.8772198782
+                  },
+                  {
+                    "year": 2040,
+                    "total": -1619.6649242721
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1741.1806495559
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1826.0255833144
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -41251,23 +41917,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 765.7786447655
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 996.4098905499
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 995.4752950135
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 1047.5911036815
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 1086.0420858245
                   }
                 ]
               },
@@ -43652,6 +44318,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -46071,6 +46774,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -48488,6 +49228,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -50907,6 +51684,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -53324,6 +54138,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -89.6681194927
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -55743,6 +56594,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": -750.9739016015
+                  },
+                  {
+                    "year": 2035,
+                    "total": -1500.6403059642
+                  },
+                  {
+                    "year": 2040,
+                    "total": -1672.0729966317
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1723.1175649007
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1847.586126416
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -55759,23 +56647,23 @@ export default {
                   },
                   {
                     "year": 2030,
-                    "total": 0.0
+                    "total": 229.3672865497
                   },
                   {
                     "year": 2035,
-                    "total": 0.0
+                    "total": 882.8113525796
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 1055.6865991639
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 1047.5911036815
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 1110.8243192746
                   }
                 ]
               },
@@ -58160,6 +59048,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -60579,6 +61504,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -62996,6 +63958,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -65415,6 +66414,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": -41.9074946028
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -67833,6 +68869,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": -1169.6705928633
+                  },
+                  {
+                    "year": 2045,
+                    "total": -1731.2801387792
+                  },
+                  {
+                    "year": 2050,
+                    "total": -1882.7826526646
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -67857,15 +68930,15 @@ export default {
                   },
                   {
                     "year": 2040,
-                    "total": 0.0
+                    "total": 731.4151673246
                   },
                   {
                     "year": 2045,
-                    "total": 0.0
+                    "total": 1047.5911036815
                   },
                   {
                     "year": 2050,
-                    "total": 0.0
+                    "total": 1110.8243192746
                   }
                 ]
               },
@@ -70250,6 +71323,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -72669,6 +73779,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -75086,6 +76233,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -77505,6 +78689,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -79922,6 +81143,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
@@ -82341,6 +83599,43 @@ export default {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
               {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
+              {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [
                   {
@@ -84758,6 +86053,43 @@ export default {
           {
             "indicator": "_Industriels CO2 udledninger",
             "indicatorGroups": [
+              {
+                "indicatorGroup": "CO2 lagring",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              },
               {
                 "indicatorGroup": "Glas og cement",
                 "indicatorGroupValues": [

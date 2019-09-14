@@ -5,48 +5,6 @@ export default {
         "scenario": "COMETS",
         "indicators": [
           {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4179356961
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5711834346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7060594516
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7625393563
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7920347717
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8212229618
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
@@ -422,6 +380,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4179356961
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5711834346
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7060594516
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7625393563
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7920347717
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8212229618
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -510,48 +510,6 @@ export default {
       {
         "scenario": "COMETS1",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5237138793
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6951791394
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8336778375
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.9038682707
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9334512935
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9473522853
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -928,6 +886,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5237138793
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6951791394
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8336778375
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9038682707
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9334512935
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9473522853
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -1016,48 +1016,6 @@ export default {
       {
         "scenario": "COMETS1_Bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -1434,6 +1392,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -1522,48 +1522,6 @@ export default {
       {
         "scenario": "COMETS1_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5234807554
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6961586831
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8340195961
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.9028428336
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9326790551
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9465099898
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -1940,6 +1898,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5234807554
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6961586831
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8340195961
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9028428336
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9326790551
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9465099898
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -2028,48 +2028,6 @@ export default {
       {
         "scenario": "COMETS1_CCS_Bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -2446,6 +2404,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -2534,48 +2534,6 @@ export default {
       {
         "scenario": "COMETS1_CCS_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5082259437
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6843623937
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8031202944
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8678266277
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9055839502
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9376119359
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -2952,6 +2910,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5082259437
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6843623937
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8031202944
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8678266277
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9055839502
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9376119359
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -3040,48 +3040,6 @@ export default {
       {
         "scenario": "COMETS1_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5083384204
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6827415129
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.80305165
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8680914093
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9064446702
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9376140784
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -3458,6 +3416,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5083384204
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6827415129
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.80305165
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8680914093
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9064446702
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9376140784
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -3546,48 +3546,6 @@ export default {
       {
         "scenario": "COMETS_Bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -3964,6 +3922,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -4052,48 +4052,6 @@ export default {
       {
         "scenario": "COMETS_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4179356961
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5711834346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7060594516
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7625393563
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7920347717
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8212229618
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -4470,6 +4428,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4179356961
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5711834346
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7060594516
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7625393563
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7920347717
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8212229618
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -4558,48 +4558,6 @@ export default {
       {
         "scenario": "COMETS_CCS_Bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -4938,6 +4896,48 @@ export default {
               },
               {
                 "indicatorGroup": "Import fra Tyskland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -5065,48 +5065,6 @@ export default {
         "scenario": "COMETS_CCS_bio",
         "indicators": [
           {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4179356961
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5711834346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7060594516
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7625393563
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7920347717
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8212229618
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
@@ -5476,6 +5434,48 @@ export default {
                   {
                     "year": 2050,
                     "total": -38.4776232842
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4179356961
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5711834346
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7060594516
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7625393563
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7920347717
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8212229618
                   }
                 ]
               }
@@ -5571,48 +5571,6 @@ export default {
         "scenario": "COMETS_bio",
         "indicators": [
           {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4179356961
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5711834346
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7060594516
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7625393563
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.7920347717
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.8212229618
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
@@ -5988,6 +5946,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4179356961
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5711834346
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7060594516
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7625393563
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.7920347717
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.8212229618
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -6076,48 +6076,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.417573801
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6261308171
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7438010043
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8384435843
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9540033092
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9786683812
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -6494,6 +6452,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.417573801
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6261308171
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7438010043
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8384435843
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9540033092
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9786683812
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -6582,48 +6582,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_300Mt",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.7466543763
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.8737841025
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.9621856611
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.9697767912
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.977688994
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9800304662
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -7000,6 +6958,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.7466543763
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.8737841025
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.9621856611
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9697767912
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.977688994
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9800304662
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -7088,48 +7088,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.54451546
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7368561497
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8629841239
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.9318247497
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9559233774
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9702092264
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -7506,6 +7464,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.54451546
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.7368561497
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8629841239
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9318247497
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9559233774
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9702092264
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -7594,48 +7594,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_CCS_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5581724446
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7056907892
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8021281227
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.9150323106
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9438996477
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9629305104
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -8012,6 +7970,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5581724446
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.7056907892
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8021281227
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9150323106
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9438996477
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9629305104
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -8100,48 +8100,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_With_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -8480,6 +8438,48 @@ export default {
               },
               {
                 "indicatorGroup": "Import fra Tyskland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -8607,48 +8607,6 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_With_CCS_bio",
         "indicators": [
           {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
@@ -9024,6 +8982,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -9112,48 +9112,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_300Mt_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.7283353872
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.8874597807
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.9214144114
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.9683262466
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9774819281
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9792126573
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -9530,6 +9488,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.7283353872
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.8874597807
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.9214144114
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9683262466
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9774819281
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9792126573
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -9618,48 +9618,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_400Mt",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.5726378276
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7435658474
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8956976653
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.9322427094
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9578764257
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9785666201
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -10036,6 +9994,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.5726378276
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.7435658474
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8956976653
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.9322427094
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9578764257
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9785666201
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -10124,48 +10124,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4375418402
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6292751671
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7488112972
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8372481607
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9446425879
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9688588754
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -10542,6 +10500,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4375418402
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6292751671
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7488112972
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8372481607
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9446425879
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9688588754
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -10630,48 +10630,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_CCS_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4566229903
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6429783382
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7353062319
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7701319871
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.896597886
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9524177308
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -11048,6 +11006,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4566229903
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6429783382
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7353062319
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7701319871
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.896597886
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9524177308
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -11136,48 +11136,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_With_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -11516,6 +11474,48 @@ export default {
               },
               {
                 "indicatorGroup": "Import fra Tyskland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -11643,48 +11643,6 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_With_CCS_bio",
         "indicators": [
           {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
@@ -12060,6 +12018,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -12148,48 +12148,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_400Mt_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.604326407
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.7523353335
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.8689452141
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.8904530165
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9164723727
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9751793388
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -12566,6 +12524,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.604326407
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.7523353335
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.8689452141
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.8904530165
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9164723727
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9751793388
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -12654,48 +12654,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.3501215462
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5536075073
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7166268794
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7624671511
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.858375244
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9377959172
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -13072,6 +13030,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3501215462
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5536075073
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7166268794
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7624671511
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.858375244
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9377959172
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -13160,48 +13160,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_CCS_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.3679314555
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5513895867
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.6999907994
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7240817894
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.8379265577
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9162256949
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -13578,6 +13536,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.3679314555
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5513895867
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6999907994
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7240817894
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.8379265577
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9162256949
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -13666,48 +13666,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_With_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -14046,6 +14004,48 @@ export default {
               },
               {
                 "indicatorGroup": "Import fra Tyskland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -14173,48 +14173,6 @@ export default {
         "scenario": "Carbon_scenario_1-5_degree_INT_With_CCS_bio",
         "indicators": [
           {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
@@ -14590,6 +14548,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -14678,48 +14678,6 @@ export default {
       {
         "scenario": "Carbon_scenario_1-5_degree_INT_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4671436816
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.6517200291
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.7490539369
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.7976572133
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.9090551979
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.9750845427
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -15096,6 +15054,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4671436816
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.6517200291
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.7490539369
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.7976572133
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.9090551979
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.9750845427
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -15184,48 +15184,6 @@ export default {
       {
         "scenario": "Frozen_policy_INT",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4324572145
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5606667219
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.6077518931
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6409061854
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6388837539
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.6518682124
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -15602,6 +15560,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4324572145
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5606667219
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.6077518931
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6409061854
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6388837539
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6518682124
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -15690,48 +15690,6 @@ export default {
       {
         "scenario": "Frozen_policy_INT_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4283087677
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5567392365
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.607460063
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.6416792005
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.6396368875
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.6523037375
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -16108,6 +16066,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4283087677
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5567392365
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.607460063
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.6416792005
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.6396368875
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.6523037375
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -16196,48 +16196,6 @@ export default {
       {
         "scenario": "Frozen_policy_INT_CCS_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.312802979
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3741007987
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4271353723
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5408698355
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5468088973
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.5638342595
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.573280684
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.579934004
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -16614,6 +16572,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.312802979
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3741007987
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4271353723
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5408698355
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5468088973
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5638342595
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.573280684
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.579934004
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -16702,48 +16702,6 @@ export default {
       {
         "scenario": "Frozen_policy_INT_With_CCS",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -17082,6 +17040,48 @@ export default {
               },
               {
                 "indicatorGroup": "Import fra Tyskland",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -17209,48 +17209,6 @@ export default {
         "scenario": "Frozen_policy_INT_With_CCS_bio",
         "indicators": [
           {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.0
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.0
-                  }
-                ]
-              }
-            ]
-          },
-          {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
               {
@@ -17626,6 +17584,48 @@ export default {
             ]
           },
           {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.0
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "indicator": "_Husholdningers varmeforbrug",
             "indicatorGroups": [
               {
@@ -17714,48 +17714,6 @@ export default {
       {
         "scenario": "Frozen_policy_INT_bio",
         "indicators": [
-          {
-            "indicator": "_CO2 emissioner",
-            "indicatorGroups": [
-              {
-                "indicatorGroup": "VE andel",
-                "indicatorGroupValues": [
-                  {
-                    "year": 2015,
-                    "total": 0.3127799661
-                  },
-                  {
-                    "year": 2020,
-                    "total": 0.3734762955
-                  },
-                  {
-                    "year": 2025,
-                    "total": 0.4267343586
-                  },
-                  {
-                    "year": 2030,
-                    "total": 0.5387059613
-                  },
-                  {
-                    "year": 2035,
-                    "total": 0.5452615578
-                  },
-                  {
-                    "year": 2040,
-                    "total": 0.5606159813
-                  },
-                  {
-                    "year": 2045,
-                    "total": 0.5702139679
-                  },
-                  {
-                    "year": 2050,
-                    "total": 0.5775180272
-                  }
-                ]
-              }
-            ]
-          },
           {
             "indicator": "_El netto eksport",
             "indicatorGroups": [
@@ -18126,6 +18084,48 @@ export default {
                   {
                     "year": 2050,
                     "total": -26.594812553
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "indicator": "_Energi forbrug i Danmark",
+            "indicatorGroups": [
+              {
+                "indicatorGroup": "VE andel",
+                "indicatorGroupValues": [
+                  {
+                    "year": 2015,
+                    "total": 0.3127799661
+                  },
+                  {
+                    "year": 2020,
+                    "total": 0.3734762955
+                  },
+                  {
+                    "year": 2025,
+                    "total": 0.4267343586
+                  },
+                  {
+                    "year": 2030,
+                    "total": 0.5387059613
+                  },
+                  {
+                    "year": 2035,
+                    "total": 0.5452615578
+                  },
+                  {
+                    "year": 2040,
+                    "total": 0.5606159813
+                  },
+                  {
+                    "year": 2045,
+                    "total": 0.5702139679
+                  },
+                  {
+                    "year": 2050,
+                    "total": 0.5775180272
                   }
                 ]
               }
