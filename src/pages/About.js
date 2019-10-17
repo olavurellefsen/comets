@@ -1,6 +1,6 @@
-import React from "react";
-import styled from "styled-components";
-import breakpoint from "styled-components-breakpoint";
+import React from 'react'
+import styled from 'styled-components'
+import breakpoint from 'styled-components-breakpoint'
 
 const AboutContainer = styled.div`
   padding: 0px 20px 20px 20px;
@@ -9,32 +9,32 @@ const AboutContainer = styled.div`
   flex-wrap: wrap;
   align-content: flex-start;
   flex-direction: column;
-`;
+`
 const AboutHeader = styled.h1`
   font-size: 2em;
-  ${breakpoint("mobile", "desktop")`
+  ${breakpoint('mobile', 'desktop')`
     font-size: 1.5em;
   `}
   font-weight: bold;
-`;
+`
 const AboutHeader2 = styled.h2`
   font-size: 1.5em;
-  ${breakpoint("mobile", "desktop")`
+  ${breakpoint('mobile', 'desktop')`
     font-size: 1em;
   `}
   font-weight: bold;
   margin-bottom: 0px;
-`;
+`
 const AboutBody = styled.p`
   font-size: 1em;
-  ${breakpoint("mobile", "desktop")`
+  ${breakpoint('mobile', 'desktop')`
     font-size: 0.7em;
   `}
-`;
+`
 const BodyLink = styled.a`
   color: inherit;
   text-decoration: underline;
-`;
+`
 
 export default () => (
   <AboutContainer>
@@ -43,7 +43,7 @@ export default () => (
     <AboutBody>
       TIMES-DK er et avanceret beregningsværktøj, der anvendes til at bygge
       scenarier for energi-systemet i Danmark. Modellen dækker energiforbrug i
-      alle sektorer i Danmark. Den har en detaljeret repræsentation af{" "}
+      alle sektorer i Danmark. Den har en detaljeret repræsentation af{' '}
       <b>el- og fjernvarme sektoren, bygninger, industri samt transport</b> og
       kan dermed belyse målsætninger og politiske virkemidler på tværs af alle
       sektorer. Den inkluderer det danske energiafgiftssystem, så ændringer og
@@ -51,14 +51,14 @@ export default () => (
       teknologipriser og politiker (f.eks. støtte, afgifter, regulering), finder
       modellen den billigste kombination af teknologier i alle sektorer. Seneste
       tilføjelse er en simpel repræsentation af emissioner af andre
-      drivhusgasser end CO2 fra{" "}
+      drivhusgasser end CO2 fra{' '}
       <b>jord- og skovbrug samt strålingseffekt fra fly</b>
       således, at modellen nu inkluderer alle direkte udledte klimagasser.
     </AboutBody>
     <AboutBody>
       Modellen er udviklet i samarbejde mellem DTU, COMETS projektet og
-      Energistyrelsen. Der er et fortsat samarbejde om den løbende udvikling og
-      forbedring af modellen.
+      Energistyrelsen. Der er et fortsat samarbejde mellem Energistyrelsen og
+      Energy Modelling Club om den løbende udvikling og forbedring af modellen.
     </AboutBody>
     <AboutBody>
       Energiforliget 2012 efterspurgte en model, som kunne sammenligne
@@ -263,7 +263,7 @@ export default () => (
       </li>
     </ul>
     <AboutBody>
-      Læs mere om TIMES-DK{" "}
+      Læs mere om TIMES-DK{' '}
       <BodyLink href="http://www.esymodels.man.dtu.dk/times-dk">
         www.esymodels.man.dtu.dk/times-dk
       </BodyLink>
@@ -355,4 +355,4 @@ export default () => (
       scenarieberegninger for IPCC.
     </AboutBody>
   </AboutContainer>
-);
+)
