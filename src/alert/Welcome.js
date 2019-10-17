@@ -26,8 +26,15 @@ const AlertBody = styled.div`
   flex: 1;
 `;
 AlertBody.displayName = "AlertBody";
+
 const AlertBodyParagraph = styled.p``;
 AlertBodyParagraph.displayName = "AlertBodyParagraph";
+
+const Space = styled.div`
+  height: 10px
+`;
+Space.displayName = "AlertBodyParagraph";
+
 const CloseWindowIcon = styled.div`
   margin: 0px;
   border: 0;
@@ -53,6 +60,9 @@ function Welcome(props) {
         <AlertBodyParagraph>{t("welcome-text.welcome-7")}</AlertBodyParagraph>
         <AlertBodyParagraph>{t("welcome-text.welcome-8")}</AlertBodyParagraph>
         <AlertBodyParagraph>{t("welcome-text.welcome-9")}</AlertBodyParagraph>
+        <Space/>
+        <AlertBodyParagraph>{t("welcome-text.welcome-10")}</AlertBodyParagraph>
+        <AlertBodyParagraph>{t("welcome-text.welcome-11")}</AlertBodyParagraph>
       </AlertBody>
       <CloseWindowIcon
         onClick={event => props.closeWelcome(event, "showWelcome", false)}
