@@ -128,9 +128,7 @@ function ScenarioSelectionMenu(props) {
   return (
     <MenuLayout>
       <MenuHeader>
-        <ExternalLink href="http://www.cometsproject.dk">
-          <AppLogo src="./images/logo_comets.png" alt="logo" />
-        </ExternalLink>
+        <AppLogo src="./images/logo_comets.png" alt="logo" />
         <MenuRoutes>
           <MenuItem
             to="/about"
@@ -215,11 +213,9 @@ function ScenarioSelectionMenu(props) {
       </ToggleDifference> */}
       <MenuFooter>
         <CopyrightNotice>
-          <p>{t("general.developed-by")}</p>
           <ExternalLink href="http://www.tokni.com">
-            Tokni
+            {t("general.developed-by-Tokni")}
           </ExternalLink>
-          <p>Energy Modelling Club</p>
         </CopyrightNotice>
       </MenuFooter>
     </MenuLayout>
