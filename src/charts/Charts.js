@@ -56,6 +56,22 @@ const Charts = props => {
             stackedBar={stackedBar}
             line={line}
           />
+          <StackedBarChart
+            chartName="_All_GHG_emissions"
+            chartTitle="Alle Danske drivhusgasser"
+            selectedScenario={selectedScenario}
+            selectedScenario2={selectedScenario2}
+            combinedChart={true}
+            label="Kt CO2e"
+            minY={-10000}
+            maxY={70000}
+            minY2={0}
+            maxY2={1}
+            label2="Drivhusgas reduktion (1990)"
+            Y2Percentage={true}
+            stackedBar={stackedBar}
+            line={line}
+          />
           <ComparisonChart
             chartName="_CO2 emissioner akkumuleret"
             chartTitle="Akkumuleret CO2 emissioner"
@@ -70,22 +86,6 @@ const Charts = props => {
             minY2={0}
             maxY2={1200000}
             Y2Percentage={false}
-            stackedBar={stackedBar}
-            line={line}
-          />
-          <StackedBarChart
-            chartName="_All_GHG_emissions"
-            chartTitle="Alle Danske drivhusgasser"
-            selectedScenario={selectedScenario}
-            selectedScenario2={selectedScenario2}
-            combinedChart={true}
-            label="Kt CO2e"
-            minY={-10000}
-            maxY={70000}
-            minY2={0}
-            maxY2={1}
-            label2="Drivhusgas reduktion (1990)"
-            Y2Percentage={true}
             stackedBar={stackedBar}
             line={line}
           />
@@ -171,21 +171,6 @@ const Charts = props => {
               stackedBar={stackedBar}
               line={line}
             />
-            <ComparisonChart
-              chartName="_CO2 emissioner akkumuleret"
-              chartTitle="Akkumuleret CO2 emissioner"
-              selectedScenario={selectedScenario}
-              selectedScenario2={selectedScenario2}
-              combinedChart={true}
-              label="Mt"
-              minY={0}
-              maxY={1200000}
-              minY2={0}
-              maxY2={1200000}
-              Y2Percentage={false}
-              stackedBar={stackedBar}
-              line={line}
-            />
             <StackedBarDiffChart
               chartName="_All_GHG_emissions"
               chartTitle="Alle Danske drivhusgasser"
@@ -199,6 +184,21 @@ const Charts = props => {
               maxY2={1}
               label2="Drivhusgas reduktion (1990)"
               Y2Percentage={true}
+              stackedBar={stackedBar}
+              line={line}
+            />
+            <ComparisonChart
+              chartName="_CO2 emissioner akkumuleret"
+              chartTitle="Akkumuleret CO2 emissioner"
+              selectedScenario={selectedScenario}
+              selectedScenario2={selectedScenario2}
+              combinedChart={true}
+              label="Mt"
+              minY={0}
+              maxY={1200000}
+              minY2={0}
+              maxY2={1200000}
+              Y2Percentage={false}
               stackedBar={stackedBar}
               line={line}
             />
