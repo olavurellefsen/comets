@@ -137,7 +137,7 @@ function ScenarioSelectionMenu(props) {
       <MenuHeader>
         <MenuHeaderLeft>
         <ExternalLink href="http://www.cometsproject.dk">
-          <AppLogo src="./images/logo_comets.png" alt="logo" />
+          <AppLogo src="/images/logo_comets.png" alt="logo" />
         </ExternalLink>
           <MenuRoutes>
             <MenuItem
