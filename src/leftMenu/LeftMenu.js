@@ -39,10 +39,17 @@ const MenuHeaderLeft = styled.div`
   align-items: left;
 `;
 
-const AppLogo = styled.img`
+const TopAppLogo = styled.img`
   width: 100%;
   margin-left: 12px;
   border: 0;
+`;
+
+const AppLogo = styled.img`
+  padding: 0px;
+  max-width: 160px;
+  border: 0;
+  align-self: center;
 `;
 
 const MenuSeparatorLine = styled.hr`
@@ -106,7 +113,7 @@ const ScenarioDifferenceText = styled.div`
 `;
 
 const MenuFooter = styled.div`
-  padding: 15px 12px 5px 15px;
+  padding: 10px 0;
   margin: 0;
   width: 100%;
   display: flex;
@@ -115,10 +122,18 @@ const MenuFooter = styled.div`
 `;
 
 const CopyrightNotice = styled.div`
-  padding: 0 12px 5px 15px;
-  margin: 0;
-  width: 100%;
-  heigth: 26px;
+  padding: 20px 12px 5px 15px;
+  margin: 10px 0 0 0;
+  height: 26px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
+
+const CopyrightItem = styled.div`
+  align-self: center;
+  padding: 5px 0;
+  text-align: center;
 `;
 
 const ExternalLink = styled.a`
@@ -129,6 +144,14 @@ const ExternalLink = styled.a`
   }
 `;
 
+const Header = styled.h1`
+  font-size: ${props => (props.narrowVersion ? "0.9em" : "1em")};
+  padding: ${props => (props.narrowVersion ? "5px" : "0 12px 0 15px")};
+  margin: 0;
+  height: 26px;
+  align-self: center;
+`;
+
 function ScenarioSelectionMenu(props) {
   const { t } = useTranslation();
 
@@ -137,7 +160,7 @@ function ScenarioSelectionMenu(props) {
       <MenuHeader>
         <MenuHeaderLeft>
         <ExternalLink href="http://www.cometsproject.dk">
-          <AppLogo src="/images/logo_comets.png" alt="logo" />
+          <TopAppLogo src="/images/logo_comets.png" alt="logo" />
         </ExternalLink>
           <MenuRoutes>
             <MenuItem
@@ -232,11 +255,20 @@ function ScenarioSelectionMenu(props) {
       <MenuSeparatorLine /> */}
       <MenuFooter>
         <CopyrightNotice>
-          <p>{t("general.developed-by")}</p>
-          <ExternalLink href="http://www.tokni.com">
-            Tokni
-          </ExternalLink>
-          <p>Energy Modelling Club</p>
+          <Header> {t("general.developed-by")}</Header>
+          <CopyrightItem>
+            <ExternalLink href="http://www.tokni.com">
+              <AppLogo src="./images/tokni.png" alt="Tøkni" data-tip="Tøkni - Nordic Software Consultancy"/>
+            </ExternalLink>
+          </CopyrightItem>
+          <CopyrightItem>
+            <ExternalLink href="https://energymodelling.club/">
+              <AppLogo src="./images/emc.png" alt="Energy Modelling Club" maxWidth="75px" data-tip="Energy Modelling Club"/>
+            </ExternalLink>
+            <ExternalLink href="https://energymodellinglab.com/">
+              <AppLogo src="./images/eml.png" alt="Energy Modelling Lab" maxWidth="75px" data-tip="Energy Modelling Lab"/>
+            </ExternalLink>
+          </CopyrightItem>
         </CopyrightNotice>
       </MenuFooter>
     </MenuLayout>
