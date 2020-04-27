@@ -462,7 +462,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -1212,7 +1212,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2258,7 +2258,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -2954,7 +2954,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -3704,7 +3704,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -4750,7 +4750,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -5446,7 +5446,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -6196,7 +6196,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -7242,7 +7242,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -7938,7 +7938,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -8688,7 +8688,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -9734,7 +9734,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -10430,7 +10430,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -11180,7 +11180,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -12226,7 +12226,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -12922,7 +12922,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -13672,7 +13672,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -14718,7 +14718,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -15414,7 +15414,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -16164,7 +16164,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -17210,7 +17210,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -17906,7 +17906,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -18656,7 +18656,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -19702,7 +19702,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -20398,7 +20398,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -21148,7 +21148,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -22194,7 +22194,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -22890,7 +22890,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -23640,7 +23640,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -24686,7 +24686,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -25382,7 +25382,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -26132,7 +26132,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -27178,7 +27178,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -27874,7 +27874,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -28624,7 +28624,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -29670,7 +29670,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -30366,7 +30366,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -31116,7 +31116,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -32162,7 +32162,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -32858,7 +32858,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -33608,7 +33608,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -34654,7 +34654,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -35350,7 +35350,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -36100,7 +36100,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -37146,7 +37146,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -37842,7 +37842,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -38592,7 +38592,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -39638,7 +39638,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -40334,7 +40334,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -41084,7 +41084,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -42130,7 +42130,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -42826,7 +42826,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -43576,7 +43576,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -44622,7 +44622,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -45318,7 +45318,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -46068,7 +46068,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -47114,7 +47114,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -47810,7 +47810,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -48560,7 +48560,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -49606,7 +49606,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -50302,7 +50302,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -51052,7 +51052,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -52098,7 +52098,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -52794,7 +52794,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -53544,7 +53544,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -54590,7 +54590,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -55286,7 +55286,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -56036,7 +56036,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -57082,7 +57082,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -57778,7 +57778,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -58528,7 +58528,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transportmidler (eksl. goods transport)",
+                "indicatorGroup": "Transportmidler (excl goods transport)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
@@ -59574,7 +59574,7 @@ export default {
                 ]
               },
               {
-                "indicatorGroup": "Transport (elsk. lastbiler)",
+                "indicatorGroup": "Transport (excl lastbiler)",
                 "indicatorGroupValues": [
                   {
                     "year": 2015,
