@@ -58,7 +58,7 @@ export default () => (
     <AboutBody>
       Modellen er udviklet i samarbejde mellem DTU, COMETS projektet og
       Energistyrelsen. Der er et fortsat samarbejde mellem Energistyrelsen og
-      Energy Modelling Club om den løbende udvikling og forbedring af modellen.
+      Energy Modelling Lab om den løbende udvikling og forbedring af modellen.
     </AboutBody>
     <AboutBody>
       Energiforliget 2012 efterspurgte en model, som kunne sammenligne
@@ -344,7 +344,7 @@ export default () => (
       et såkaldt teknologiprogram under IEA som Danmark har været medlem af i
       mange år og lige nu er 22 lande og to internationale energivirksomheder
       aktive samt et utal af universiteter og forskningsinstitutioner. Kenneth
-      Karlsson fra DTU er Operating Agent for ETSAP og koordinerer dette
+      Karlsson fra Energy Modelling Lab er Operating Agent for ETSAP og koordinerer dette
       samarbejde inklusiv forskningsprojekter.
     </AboutBody>
     <AboutBody>
