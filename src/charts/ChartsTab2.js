@@ -6,23 +6,16 @@ import StackedBarDiffChart from "./StackedBarDiffChart";
 import { MainArea, Flex } from "./Charts.style";
 import stackedBar from "../data/stackedBarTab2";
 import line from "../data/lineTab2";
-import Disqus from "disqus-react";
 
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection;
   const selectedScenario2 = props.scenarioSelection.scenarioSelection2;
-  const disqusConfig = {
-    url: window.location.href,
-    identifier: "tab2",
-    title: "Hovedresultater"
-  };
 
   return (
     <MainArea>
       {props.scenarioSelection.showWelcome === true && (
         <Welcome closeWelcome={props.closeWelcome} />
       )}
-      <Disqus.CommentCount shortname="cometsproject" config={disqusConfig} />
       {(props.scenarioSelection.showDifference === false ||
         (props.scenarioSelection.showDifference === true &&
           selectedScenario2 === "")) && (
@@ -358,7 +351,6 @@ const Charts = props => {
             />
           </Flex>
         )}
-        <Disqus.DiscussionEmbed shortname="cometsproject" config={disqusConfig} />
     </MainArea>
   );
 };

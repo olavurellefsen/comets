@@ -7,23 +7,16 @@ import ComparisonChart from "./ComparisonChart";
 import { MainArea, Flex } from "./Charts.style";
 import stackedBar from "../data/stackedBar";
 import line from "../data/line";
-import Disqus from "disqus-react";
 
 const Charts = props => {
   const selectedScenario = props.scenarioSelection.scenarioSelection;
   const selectedScenario2 = props.scenarioSelection.scenarioSelection2;
-  const disqusConfig = {
-    url: window.location.href,
-    identifier: "tab1",
-    title: "Overblik"
-  };
 
   return (
     <MainArea>
       {props.scenarioSelection.showWelcome === true && (
         <Welcome closeWelcome={props.closeWelcome} />
       )}
-      <Disqus.CommentCount shortname="cometsproject" config={disqusConfig} />
       {(props.scenarioSelection.showDifference === false ||
         (props.scenarioSelection.showDifference === true &&
           selectedScenario2 === "")) && (
@@ -253,7 +246,6 @@ const Charts = props => {
             />
           </Flex>
         )}
-      <Disqus.DiscussionEmbed shortname="cometsproject" config={disqusConfig} />
     </MainArea>
   );
 };
