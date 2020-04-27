@@ -84,7 +84,7 @@ export default () => (
     </AboutBody>
     <AboutHeader2>Brændselspriser</AboutHeader2>
     <AboutBody>
-      Brændselspriserne, der anvendes i DTU’s TIMES-DK er baseret på
+      Brændselspriserne, der anvendes i TIMES-DK er baseret på
       Energistyrelses samfundøkonomiske beregningsforudsætninger fra 2018.
     </AboutBody>
     <AboutBody>
@@ -144,7 +144,7 @@ export default () => (
       />
     </AboutBody>
     <AboutBody>
-      Dette vurderes af DTU, at udviklingen af el og hybrid biler er en relativ
+      Dette vurderes at udviklingen af el og hybrid biler er en relativ
       konservativ begrænsning når man kigger på udmeldingerne fra
       bilproducenterne:
     </AboutBody>

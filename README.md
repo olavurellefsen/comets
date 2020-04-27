@@ -1,7 +1,7 @@
 Klimaaftalen 2019
 ============================
 
-This tool is developed by Tokni based data and charts from DTU Management Engineering's work with the TIMES-DK energy system model.
+This tool is developed by Tokni based data and charts from work with the TIMES-DK energy system model.
 
 ## Installation
 
@@ -21,7 +21,7 @@ Deployment version:
 
 - npm run build
 
-The public version is available at https://comets.tokni.com and is updated via Netlify after each commit to the master branch. A staging version is available at http://develop--cometsproject.netlify.com/
+The public version is available at https://comets.tokni.com and is updated via Netlify after each commit to the master branch.
 
 
 ## Usage

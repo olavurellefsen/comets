@@ -54,7 +54,7 @@ const MenuRoutes = styled.div`
 `;
 
 const MenuItem = styled(Link)`
-  font-weight: ${props => (props.selected ? "bold" : "normal")};
+  font-weight: ${(props) => (props.selected ? "bold" : "normal")};
   font-size: 0.7em;
   margin: 0;
   padding-top: 5px;
@@ -62,7 +62,7 @@ const MenuItem = styled(Link)`
   width: 100%;
   display: flex;
   align-items: center;
-  color: ${props => (props.selected ? "yellow" : "inherit")};
+  color: ${(props) => (props.selected ? "yellow" : "inherit")};
   text-decoration: none;
   :hover {
     text-decoration: underline;
@@ -86,14 +86,14 @@ const ToggleDifference = styled.div`
 
 const ToggleSwitchText = styled.div`
   font-size: 0.7em;
-  color: ${props =>
+  color: ${(props) =>
     props.singleMode ? "gray" : props.selected ? "#2196F3" : "white"};
   margin-top: 5px;
 `;
 
 const ScenarioDifferenceText = styled.div`
   font-size: 0.7em;
-  color: ${props =>
+  color: ${(props) =>
     props.singleMode ? "gray" : props.selected ? "#2196F3" : "white"};
   margin: 5px;
 `;
@@ -167,7 +167,7 @@ function ScenarioSelectionMenu(props) {
         />
       </ScenarioSelection>
       <MenuSeparatorLine />
-      <ToggleDifference onClick={e => props.toggleShowCCS(e)}>
+      <ToggleDifference onClick={(e) => props.toggleShowCCS(e)}>
         <ToggleSwitch
           dimmed={false}
           checked={props.scenarioSelection.showCCS}
@@ -176,7 +176,7 @@ function ScenarioSelectionMenu(props) {
           {t("general.CCS")}
         </ToggleSwitchText>
       </ToggleDifference>
-      <ToggleDifference onClick={e => props.toggleShowBio(e)}>
+      <ToggleDifference onClick={(e) => props.toggleShowBio(e)}>
         <ToggleSwitch
           dimmed={false}
           checked={props.scenarioSelection.showBio}
@@ -185,7 +185,7 @@ function ScenarioSelectionMenu(props) {
           {t("general.bio")}
         </ToggleSwitchText>
       </ToggleDifference>
-      <ToggleDifference onClick={e => props.toggleDifference(e)}>
+      <ToggleDifference onClick={(e) => props.toggleDifference(e)}>
         <ToggleSwitch
           dimmed={props.scenarioSelection.scenarioSelection2 === ""}
           checked={props.scenarioSelection.showDifference}
@@ -216,10 +216,11 @@ function ScenarioSelectionMenu(props) {
       <MenuFooter>
         <CopyrightNotice>
           <p>{t("general.developed-by")}</p>
-          <ExternalLink href="http://www.tokni.com">
-            Tokni
+          <ExternalLink href="http://www.tokni.com">Tokni</ExternalLink>
+          <br />
+          <ExternalLink href="https://energymodellinglab.com/">
+            Energy Modelling Lab
           </ExternalLink>
-          <p>Energy Modelling Club</p>
         </CopyrightNotice>
       </MenuFooter>
     </MenuLayout>
@@ -233,7 +234,7 @@ ScenarioSelectionMenu.propTypes = {
   scenarioCombinations: PropTypes.object.isRequired,
   toggleDifference: PropTypes.func.isRequired,
   toggleShowCCS: PropTypes.func.isRequired,
-  toggleShowBio: PropTypes.func.isRequired
+  toggleShowBio: PropTypes.func.isRequired,
 };
 
 export default ScenarioSelectionMenu;
